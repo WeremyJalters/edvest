@@ -13,6 +13,7 @@ gem 'spring',        group: :development
 gem 'rspec', group: :development
 gem 'capybara', group: :development
 gem 'devise'
+gem 'rails_12factor', group: :production
 
 
 
